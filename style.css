@@ -1,0 +1,16 @@
+.contanir{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.div1{
+    width: 50%;
+    text-align: center;
+}
+.div2{
+    width: 50%;
+    text-align: center;
+}
+#name1{
+    text-align: center;
+}
