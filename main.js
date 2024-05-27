@@ -119,3 +119,12 @@ itme5.onmouseover = function () {
 itme5.onmouseout = function () {
     itme5.innerText = "lorem"
 }
+//-----------------------------------------
+const img = document.querySelector("img")
+img.onmouseover = function () {
+    img.src = "https://img.icons8.com/?size=100&id=45472&format=png&color=ffffff"
+}
+img.onmouseout = function () {
+    img.src = "https://img.icons8.com/?size=100&id=25118&format=png&color=ffffff"
+
+}
